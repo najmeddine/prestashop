@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FR - Blog ecommerce par PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/fr</link>
+	<description></description>
+	<lastBuildDate>Mon, 16 Nov 2015 16:58:58 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>Comment se prémunir des retards de livraison à Noël et en été ?</title>
+		<link>https://www.prestashop.com/blog/fr/comment-se-premunir-retards-livraison-noel-en-ete/</link>
+		<comments>https://www.prestashop.com/blog/fr/comment-se-premunir-retards-livraison-noel-en-ete/#comments</comments>
+		<pubDate>Fri, 13 Nov 2015 08:30:28 +0000</pubDate>
+		<dc:creator><![CDATA[Les amis de Preston]]></dc:creator>
+				<category><![CDATA[Partenaires PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19504</guid>
+		<description><![CDATA[<p>2 Millions ! C’est le nombre de colis transportés chaque jour par La Poste en décembre 2014. Les e-commerçants le savent, les attentes des clients à Noël sont décuplées, et pour relever le défi des sourires au pied du sapin, ils doivent se prémunir des retards de livraison. Alors, jusqu’à quand expédier ses commandes afin [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-se-premunir-retards-livraison-noel-en-ete/">Comment se prémunir des retards de livraison à Noël et en été ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>2 Millions !</p>
+<p>C’est le nombre de colis transportés chaque jour par La Poste en décembre 2014. Les e-commerçants le savent, les attentes des clients à Noël sont décuplées, et pour relever le défi des sourires au pied du sapin, ils doivent se prémunir des retards de livraison.</p>
+<p>Alors, jusqu’à quand expédier ses commandes afin qu’elles arrivent à temps sous le sapin ?</p>
+<p>Et, y a-t-il d’autres moments dans l’année où le transport risque d’être perturbé et les délais d’acheminement allongés ?<br />
+<span id="more-19504"></span></p>
+<h4 style="color: #2b95ab;">Soyez prévoyants à Noël et en été, le transport peut être perturbé !</h4>
+<p>Pour éviter les retards de livraison et garantir la satisfaction de vos clients à tout moment de l’année, il faut anticiper ! Anticiper les périodes au cours desquelles les réseaux de transport risquent d’être perturbés en commençant par identifier ces dates clés.</p>
+<p>Il y a bien sûr Noël.</p>
+<p>Les volumes de colis injectés dans les réseaux des transporteurs en fin d’année peuvent générer des retards bien que les transporteurs adaptent leurs moyens pour répondre à la demande. L’an dernier, UPS et Fedex ont ainsi embauché des dizaines de milliers de saisonniers.</p>
+<p>Ensuite, il y a les mois d’été.</p>
+<p>En juillet et en août, le transport est impacté par les congés d’été et par les interdictions de circulation des camions lors des week-ends de chassé-croisé.</p>
+<p>A Noël, proposez des options de livraison adaptées aux clients prévoyants comme aux acheteurs coutumiers de la dernière minute.</p>
+<p>Ensuite, il faut communiquer les bonnes informations à vos clients.</p>
+<p>Pour les commandes de Noël 2015, afin de prévenir les retards et d’assurer la satisfaction de vos clients, expédiez les dernières commandes via les réseaux de points relais (Mondial Relay, Relais Colis…) avant le 13 décembre. Et, dites le clairement à vos clients en affichant une alerte du type « Dernières livraisons des commandes de Noël le 13 décembre » à côté des transporteurs concernés. En effet, l’an dernier des centaines de colis expédiés dans les 15 jours précédant Noël n’ont pas été livrés pour Noël compte tenu des volumes injectés dans ces réseaux de transport à faible coût. Les relayistes devraient adaptés leurs moyens cette année, toutefois, un client averti en vaut 2 !</p>
+<p>Mais alors, que faire pour les commandes passées après le 13 décembre ? C’est simple, à partir du 13 décembre privilégiez la livraison standard et la livraison en express pour respecter les délais et garantir la satisfaction de vos clients.</p>
+<p>C’est votre client qui est le plus à même d’arbitrer entre le coût, le délai et le confort de la livraison compte tenu de ses contraintes personnelles. En communiquant sur le risque de retard de livraison en point relais après le 13 décembre, vous donnez toutes les clés à votre client pour qu’il choisisse son mode de livraison en connaissance de cause. Donner le choix du mode de livraison tout en communiquant les bonnes informations maximise la conversion de vos paniers et la satisfaction client !</p>
+<p>Des précautions s’imposent également pour la livraison standard et la livraison express. Même s’il est possible d’expédier des colis jusqu’au 23 décembre avec Chronopost, UPS, Fedex, TNT et DHL par exemple, un délai de sécurité de 24 à 48h supplémentaires assurera l’arrivée des colis avant Noël et la satisfaction de vos clients. Ainsi, veillez à expédier vos dernières commandes de Noël avant le 22 décembre.</p>
+<table>
+<tbody>
+<tr>
+<th>Mode de livraison</th>
+<th>Commande de Noël à expédier avant le*</th>
+</tr>
+<tr>
+<td>Livraison en point relais</td>
+<td>13 décembre 2015</td>
+</tr>
+<tr>
+<td>Livraison standard (48 à 72h)</td>
+<td>19 décembre 2015</td>
+</tr>
+<tr>
+<td>Livraison express<br />
+(moins de 24h en France)</td>
+<td>22 décembre 2015</td>
+</tr>
+<tr>
+<td>Livraison internationale</td>
+<td>Ajouter 48h au délai d’expédition annoncé</td>
+</tr>
+</tbody>
+</table>
+<p style="font-size: 12px;">*Attention, nous traitons ici des dates d’expédition et ne tenons pas compte du temps nécessaire à la préparation des commandes.</p>
+<p>En juillet et en août, il y a 2 types de précautions à prendre :</p>
+<ul style="padding-left: 30px;">
+<li>Ajouter 2 jours de délai supplémentaire pour la livraison en point relais</li>
+<li>Ajouter 1 jour de délai supplémentaire pour les commandes expédiées en express le vendredi car les interdictions préfectorales de circulation des camions le samedi entre le 14 juillet et le 15 août peuvent impacter les délais de livraison.</li>
+</ul>
+<p>Pour résumer, à Noël comme tout au long de l’année donner le choix du mode de livraison à vos clients maximise la conversion de vos paniers. Toutefois, prévenir vos clients du risque de retard de livraison à Noël et en juillet-août leur permettra de faire le bon choix c’est-à-dire le choix gagnant pour la satisfaction de vos clients !</p>
+<p>Auteur : Magali GUILLARDEAU<br />
+Business Developer EnvoiMoinsCher<br />
+magali@envoimoinscher.com</p>
+<p><img class="size-full wp-image-19514 alignleft" alt="envoimoinscher" src="https://www.prestashop.com/blog/fr/files/2015/11/envoimoinscher.jpg" width="220" height="220" /></p>
+<h4 style="color: #2b95ab;">A Propos d’EnvoiMoinsCher</h4>
+<p><a href="http://addons.prestashop.com/fr/transport-logistique-livraison-modules-prestashop/1755-envoimoinschercom.html" target="_blank">Le module EnvoiMoinsCher</a> vous permet de gérer simplement vos expéditions et de proposer plusieurs modes de livraison pour augmenter vos ventes.</p>
+<p>Grâce au module, vous générez vos bordereaux d’expédition en 1 clic et suivez vos expéditions depuis votre back-office Prestashop. Vous bénéficiez de tarifs négociés sur les offres de 15 transporteurs au choix sans contrat à signer. Mondial Relay, Relais Colis, La Poste, Chronopost, TNT, DHL… sont désormais accessibles en 1 clic !</p>
+<p>Envie d’optimiser votre politique de livraison ? Installez gratuitement <a href="http://addons.prestashop.com/fr/transport-logistique-livraison-modules-prestashop/1755-envoimoinschercom.html" target="_blank">le module EnvoiMoinsCher</a> depuis votre back-office Prestashop (Module/Transporteur et logistique).</p>
+<p>Vous utilisez déjà <a href="http://addons.prestashop.com/fr/transport-logistique-livraison-modules-prestashop/1755-envoimoinschercom.html" target="_blank">le module EnvoiMoinsCher</a> ? Vérifiez que vous répondez à tous les besoins de livraison de vos clients en proposant 3 modes de livraison : la livraison en point de retrait, la livraison standard et la livraison express.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-se-premunir-retards-livraison-noel-en-ete/">Comment se prémunir des retards de livraison à Noël et en été ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/comment-se-premunir-retards-livraison-noel-en-ete/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Utiliser les médias sociaux pour votre entreprise: les 4 erreurs à éviter</title>
+		<link>https://www.prestashop.com/blog/fr/utiliser-les-medias-sociaux-entreprise-les-4-erreurs-eviter/</link>
+		<comments>https://www.prestashop.com/blog/fr/utiliser-les-medias-sociaux-entreprise-les-4-erreurs-eviter/#comments</comments>
+		<pubDate>Thu, 12 Nov 2015 08:30:29 +0000</pubDate>
+		<dc:creator><![CDATA[Les amis de Preston]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19501</guid>
+		<description><![CDATA[<p>En 2015, les médias sociaux font pleinement partie du quotidien de la quasi-totalité (96%) des professionnels du marketing. Ceux-ci en font un usage à la fois personnel et professionnel. En tant qu’entreprise, il est en effet important de choisir les canaux marketing qui vous apporteront les meilleurs résultats et un bon ROI et les médias [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/utiliser-les-medias-sociaux-entreprise-les-4-erreurs-eviter/">Utiliser les médias sociaux pour votre entreprise: les 4 erreurs à éviter</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En 2015, <a href="http://ow.ly/TCoYA" target="_blank">les médias sociaux font pleinement partie du quotidien</a> de la quasi-totalité (96%) des professionnels du marketing. Ceux-ci en font un usage à la fois personnel et professionnel. En tant qu’entreprise, il est en effet important de choisir les canaux marketing qui vous apporteront les meilleurs résultats et un bon ROI et les médias sociaux en font partie. </p>
+<p>De nos jours, de plus en plus de petites entreprises choisissent les médias sociaux à d’autres canaux marketing pour les aider à faire connaître leur marque, booster leurs ventes et étendre leur réseau professionnel. Il faut dire que les chiffres des médias sociaux parviennent à convaincre rapidement de leur utilisation ! Parmi les 3 milliards d’utilisateurs d’Internet &#8211; soit 45% de la population &#8211; 2.1 milliards possèdent un compte sur les réseaux sociaux. On compte 1,4 d’utilisateurs Facebook, 248 millions d’utilisateurs actifs sur Twitter avec 500 millions de tweets envoyés chaque jour.*<br />
+Autre chiffre significatif: l’augmentation prévue du budget marketing digital des entreprises en 2015 est de 8%**.<br />
+<span id="more-19501"></span><br />
+Mais qu’en est-il des choses que vous <em>ne devriez pas faire</em> ? Car attention: certaines erreurs peuvent coûter cher. Découvrez les 4 erreurs à éviter absolument lorsque vous utilisez les médias sociaux pour votre entreprise.</p>
+<h2 style="color:#706da4">1. Ne pas avoir de stratégie de réseaux sociaux</h2>
+<p>De nombreuses entreprises se lancent dans l’utilisation des médias sociaux sans avoir aucune ligne directrice ou de stratégie mise en place. Beaucoup n’ont surtout aucune idée de ce dont il peut s’agir.</p>
+<p>Pourquoi est-ce une erreur? Tout simplement parce que chaque action réalisée sur vos réseaux sociaux doit répondre à des objectifs clairs, le reste de vos initiatives sociales en découlera beaucoup plus facilement. Ne pas avoir de plan défini risque de rendre ces actions confuses et pas alignées entre elles. L’engagement de vos abonnés et le ROI en seront d’autant plus affectés.</p>
+<p>Cela peut vous paraitre compliqué à mettre en place? Ne vous inquiétez pas ! Il existe aujourd’hui des <a href="http://ow.ly/TCraJ" target="_blank">plans pour élaborer des stratégies de médias sociaux</a>. Pensez à vos objectifs, réalisez un audit de vos médias sociaux, inspirez-vous de vos concurrents, <a href="http://ow.ly/TCEXa" target="_blank">créez un calendrier de contenu</a> et enfin: testez, testez et testez encore afin d’affiner cette stratégie.</p>
+<h2 style="color:#706da4">2. Acheter des “J’aime” et des abonnés</h2>
+<p>Sur certains réseaux sociaux il est possible d’acheter des “J’aime” ainsi que des abonnés. Cette technique fut un temps largement utilisée mais elle est de plus en plus décriée. Certaines marques préfèrent favoriser la “<a href="http://www.journaldunet.com/ebusiness/expert/57443/3-raisons-de-ne-pas-acheter-des-fans-facebook.shtml" target="_blank">masse sociale</a>”  mais sachez que ces faux “J’aime” et ces abonnés fantôme n’auront absolument aucun impact sur vos résultats et ne vous serviront à rien à part dépenser. Plus important: la qualité et l’interactivité de votre audience diminueront, l’image de votre marque sera ternie et votre ROI sera proche de 0. Si vous voulez davantage d’interaction et d’abonnés, optez pour des solutions classiques: bouche-à-oreille, compétitions, concours, publicité…</p>
+<h2 style="color:#706da4">3. Poster trop de contenu</h2>
+<p>Poster du contenu c’est une bonne stratégie: cela permet de créer de l’interaction sur vos comptes et de nourrir vos abonnés en informations pour lesquelles ils seront réceptifs. En revanche, en poster trop souvent pourront les lasser malgré leur fidélité. Vous n’êtes pas la seule marque qu’ils suivent et n’auront ni l’envie ni le temps de digérer tout ce flux d’information. En gros, en postant trop de contenu, vous risquez de “spammer” ceux qui vous suivent et par conséquent de les voir se désabonner.</p>
+<p>Pour éviter cette erreur, mettez en place un <a href="http://ow.ly/TCEXa" target="_blank">calendrier de contenu</a> et tenez-vous-en. Assurez-vous de poster du contenu intéressant et diversifié et qu’il réponde à l’objectif attribué pour chaque réseau social. Un contenu de qualité et bien dosé est essentiel à la réussite de votre stratégie de médias sociaux.</p>
+<h2 style="color:#706da4">4. Supprimer les commentaires négatifs</h2>
+<p>Le premier reflexe qu’auront les débutants sur les réseaux sociaux est de supprimer les commentaires accablants. C’est vrai : pourquoi laisser ces témoignages négatifs à la vue de tous, venant vous discréditer et touchant directement votre image de marque? Pourtant détrompez-vous: les supprimer serait une grosse erreur ! En effet, en faisant cela vous montrez à tout le monde votre culpabilité, votre suceptibilité et votre manque de transparence. Prenez ces commentaires négatifs comme une opportunité: vous pouvez y répondre en apportant une satisfaction au client mécontent ou en résolvant un problème dont vous ne connaissiez peut-être même pas l’existence, et tout cela publiquement. Vous montrerez ainsi aux yeux de tous votre professionnalisme et votre réactivité. Mieux encore: vous pouvez répondre à ces commentaires avec une touche d’humour et ainsi tourner la conversation à votre avantage.</p>
+<p>Il existe de nombreuses autres <a href="http://ow.ly/TCP8i" target="_blank">erreurs stratégiques fréquentes sur les médias sociaux</a> avec une solution pour chacune. Le plus important est de connaître l’utilisation que vous voulez faire des médias sociaux et comment l’appliquer. Certes, il est plus facile de tomber dans les pièges lorsqu’on débute sur les médias sociaux ou lorsqu’on part de zéro en créant une nouvelle entreprise, mais comme dit l’adage: <em>“n’ayez pas peur de faire une erreur. Mais faîtes en sorte de ne pas faire la même erreur deux fois”</em>.</p>
+<h4 style="color:#706da4">A propos de l’auteur et d’Hootsuite</h4>
+<p>Clémence est Content Marketing Specialist chez Hootsuite. Passionée de web marketing et de médias sociaux, elle reste à l’affût des dernières tendances et propose conseils et best practices pour ses lecteurs et les utilisateurs d’Hootsuite.</p>
+<p>Pour plus d’informations et de conseils sur les médias sociaux et l’élaboration d’une stratégie sociale, le <a href="http://ow.ly/TCONO" target="_blank">blog d’Hootsuite</a> est plein de ressources. <a href="http://ow.ly/TCOZP" target="_blank">Hootsuite</a> propose un logiciel de gestion de médias sociaux. Disponible en plusieurs langues et proposant 3 types de forfaits, il rend possible la gestion de l’ensemble des comptes sociaux à partir d’un seul et unique tableau de bord.</p>
+<p>* Source: We Are Social 2015<br />
+** Source : Veinteractive, décembre 2014</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/utiliser-les-medias-sociaux-entreprise-les-4-erreurs-eviter/">Utiliser les médias sociaux pour votre entreprise: les 4 erreurs à éviter</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/utiliser-les-medias-sociaux-entreprise-les-4-erreurs-eviter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Introduction au e-commerce : des solutions de paiement en un tweet</title>
+		<link>https://www.prestashop.com/blog/fr/introduction-au-e-commerce-solutions-paiement-en-tweet/</link>
+		<comments>https://www.prestashop.com/blog/fr/introduction-au-e-commerce-solutions-paiement-en-tweet/#comments</comments>
+		<pubDate>Thu, 05 Nov 2015 08:30:52 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19487</guid>
+		<description><![CDATA[<p>Pour chaque e-commerçant, le choix d&#8217;un prestataire de services de paiement est une tâche cruciale qui peut en revanche s&#8217;avérer particulièrement rébarbative. Pour vous faciliter la tâche et aller à l&#8217;essentiel, nous vous présentons plusieurs partenaires de paiement PrestaShop au format Twitter. Améliorez l&#8217;expérience de commerce en ligne que vous offrez avec une solution de [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/introduction-au-e-commerce-solutions-paiement-en-tweet/">Introduction au e-commerce : des solutions de paiement en un tweet</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Pour chaque e-commerçant, le choix d&rsquo;un prestataire de services de paiement est une tâche cruciale qui peut en revanche s&rsquo;avérer particulièrement rébarbative. Pour vous faciliter la tâche et aller à l&rsquo;essentiel, nous vous présentons plusieurs partenaires de paiement PrestaShop au format Twitter.<br />
+<span id="more-19487"></span></p>
+<div style="margin: 20px 0; padding: 26px 20px; background-color: #f5f5f5;"><img class="alignleft size-full wp-image-20852" alt="desjardins" src="https://www.prestashop.com/blog/fr/files/2015/11/desjardins.png" width="57" height="57" /> Améliorez l&rsquo;expérience de commerce en ligne que vous offrez avec une solution de paiement clés en main. @DesjardinsGroup<br />
+- <a href="http://bit.ly/1P6aQ2S" target="_blank">Desjardins</a>     <a class="twitter-share-button" href="https://www.twitter.com/intent/tweet?text=Am%C3%A9liorez%20l%27exp%C3%A9rience%20de%20commerce%20en%20ligne%20que%20vous%20offrez%20avec%20une%20solution%20de%20paiement%20cl%C3%A9s%20en%20main.%20%40DesjardinsGroup&amp;via=PrestaShop" data-size="large">Tweet_Button</a></div>
+<div style="margin: 20px 0; padding: 26px 20px; background-color: #f5f5f5;"><img class="alignright size-full wp-image-20853" alt="hipay" src="https://www.prestashop.com/blog/fr/files/2015/11/hipay.jpg" width="57" height="57" /> Développer son activité à l&rsquo;étranger c&rsquo;est bien avec les #méthodesdepaiement adaptées, c&rsquo;est mieux! @Hipay payments locaux et internationaux<br />
+- <a href="http://bit.ly/1kmuV82" target="_blank">HiPay</a>     <a class="twitter-share-button" href="https://www.twitter.com/intent/tweet?text=D%C3%A9velopper%20son%20activit%C3%A9%20%C3%A0%20l%27%C3%A9tranger%20c%27est%20bien%20avec%20les%20%23m%C3%A9thodesdepaiement%20adapt%C3%A9es%2C%20c%27est%20mieux!%20%40Hipay%20payments%20locaux%20et%20internationaux&amp;via=PrestaShop" data-size="large">Tweet_Button</a></div>
+<div style="margin: 20px 0; padding: 26px 20px; background-color: #f5f5f5;"><img class="alignleft size-full wp-image-20858" alt="sofort" src="https://www.prestashop.com/blog/fr/files/2015/11/sofort.png" width="60" height="60" /> Faites le bon choix ! Réduisez les coûts de votre e-boutique en optant pour la solution e-paiement SOFORT Banking ! <a href="http://bit.ly/1gYSIJQ" target="_blank">http://bit.ly/1gYSIJQ</a><br />
+- <a href="http://bit.ly/1XJXHOl" target="_blank">SOFORT</a>     <a class="twitter-share-button" href="https://www.twitter.com/intent/tweet?text=Faites%20le%20bon%20choix%20!%20R%C3%A9duisez%20les%20co%C3%BBts%20de%20votre%20e-boutique%20en%20optant%20pour%20la%20solution%20e-paiement%20SOFORT%20Banking%20!&amp;via=PrestaShop" data-size="large">Tweet_Button</a></div>
+<div style="margin: 20px 0; padding: 26px 20px; background-color: #f5f5f5;"><img class="alignright size-full wp-image-20855" alt="payplug" src="https://www.prestashop.com/blog/fr/files/2015/11/payplug.jpg" width="57" height="57" /> Intégrez le paiement en ligne sur votre site en 1 minute avec @PayPlug : <a href="https://www.payplug.com/fr/modules/prestashop/" target="_blank">https://www.payplug.com/fr/modules/prestashop/</a><br />
+- <a href="http://bit.ly/1NMJyLP" target="_blank">PayPlug</a>     <a class="twitter-share-button" href="https://www.twitter.com/intent/tweet?text=Int%C3%A9grez%20le%20paiement%20en%20ligne%20sur%20votre%20site%20en%201%20minute%20avec%20%40PayPlug&amp;via=PrestaShop" data-size="large">Tweet_Button</a></div>
+<div style="margin: 20px 0; padding: 26px 20px; background-color: #f5f5f5;"><img class="alignleft size-full wp-image-20856" alt="KlikandPay" src="https://www.prestashop.com/blog/fr/files/2015/11/klikandpay.png" width="57" height="57" /> Baisser ses coûts de paiement et de service clients + augmenter son taux de conversion = Impossible? Contactez-nous! 0139248000 #KlikandPay<br />
+- <a href="http://bit.ly/1WtXk8b" target="_blank">Klik &amp; Pay</a>     <a class="twitter-share-button" href="https://www.twitter.com/intent/tweet?text=Baisser%20ses%20co%C3%BBts%20de%20paiement%20et%20de%20service%20clients%20%2B%20augmenter%20son%20taux%20de%20conversion%20%3D%20Impossible%3F%20Contactez-nous!%200139248000%20%23KlikandPay&amp;via=PrestaShop" data-size="large">Tweet_Button</a></div>
+<hr style="margin-bottom: 20px;" align="left" width="20%" />
+<p>Pour savoir quels <a href="http://addons.prestashop.com/fr/4-modules-paiement-prestashop" target="_blank">modules et passerelles de paiement</a> sont disponibles dans votre pays, rendez-vous sur PrestaShop Addons, ou tweetez simplement vos questions à nos partenaires !</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/introduction-au-e-commerce-solutions-paiement-en-tweet/">Introduction au e-commerce : des solutions de paiement en un tweet</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/introduction-au-e-commerce-solutions-paiement-en-tweet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Black Friday et Cyber Monday approchent à grands pas !</title>
+		<link>https://www.prestashop.com/blog/fr/black-friday-cyber-monday-approchent-grands-pas/</link>
+		<comments>https://www.prestashop.com/blog/fr/black-friday-cyber-monday-approchent-grands-pas/#comments</comments>
+		<pubDate>Tue, 03 Nov 2015 09:28:19 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19482</guid>
+		<description><![CDATA[<p>Black Friday et Cyber Monday approchent à grands pas ! Découvrez nos astuces logistique et marketing pour booster vos ventes au maximum et attaquer la saison des fêtes du bon pied. Approvisionnez-vous Première étape : vérifiez votre inventaire. Rien de pire que de vous rendre compte que vos best-sellers sont épuisés en plein rush des [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/black-friday-cyber-monday-approchent-grands-pas/">Black Friday et Cyber Monday approchent à grands pas !</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Black Friday et Cyber Monday approchent à grands pas ! Découvrez nos astuces logistique et marketing pour booster vos ventes au maximum et attaquer la saison des fêtes du bon pied.<br />
+<span id="more-19482"></span></p>
+<h2 style="color: #846060;">Approvisionnez-vous</h2>
+<p>Première étape : vérifiez votre inventaire. Rien de pire que de vous rendre compte que vos best-sellers sont épuisés en plein rush des fêtes. Si vous utilisez des plateformes comme Amazon, n&rsquo;hésitez pas à prévoir large. C&rsquo;est bien la seule fois dans l&rsquo;année où le sur-approvisionnement ne nuit pas !</p>
+<p>Avant de lancer vos commandes, posez-vous les questions suivantes :</p>
+<ul style="padding-left:30px">
+<li>Quels produits se sont bien vendus l&rsquo;année dernière ?</li>
+<li>Quels produits ont été épuisés ?</li>
+<li>Quels produits souhaitez-vous mettre en avant ?</li>
+</ul>
+<h2 style="color: #846060;">Préparez-vous au rush</h2>
+<p>Deuxième étape : pensez trafic et capacités. Votre site est-il à même de prendre en charge les pics de trafic caractéristiques de la période ? Votre système de gestion des stocks est-il à jour et assez précis (combien de produits avez-vous en stock ?) ?</p>
+<p>Une fois ces deux étapes traitées, assurez-vous que votre processus d&rsquo;exécution des commandes respecte les délais impartis pour que chaque client reçoive ses cadeaux à temps. Pour un maximum de clarté, affichez les délais d&rsquo;expédition sur votre site.</p>
+<p>Enfin, ne négligez pas la sécurité ! Nous entrons dans la pire période de l&rsquo;année en termes de vulnérabilité, car beaucoup de nouveaux clients viennent s&rsquo;inscrire sur votre site pour remplir leur hotte. N&rsquo;hésitez pas à signaler à votre prestataire de paiement que vous vous attendez à une hausse du trafic.</p>
+<h2 style="color: #846060;">Démarquez-vous</h2>
+<p>Les fêtes de fin d&rsquo;année représentent 30 à 50 % du chiffre d&rsquo;affaires annuel des e-commerçants : il n&rsquo;est donc pas surprenant qu&rsquo;ils rivalisent d&rsquo;inventivité pour attirer le plus de clients possible. Par exemple, la plupart vont proposer des promotions plus qu&rsquo;avantageuses, mais comment vous démarquer si vous souhaitez faire de même ? Votre objectif : maximiser votre visibilité grâce à du contenu <strong>unique et parfaitement ciblé</strong>.</p>
+<p>Tous ces commerçants vont par exemple mentionner leurs promotions dans l&rsquo;objet de leurs newsletters : ne vous contentez pas de suivre le mouvement, adoptez une nouvelle approche (par exemple, l&rsquo;humour) ! Si cela ne vous convient pas, modifiez vos titres pour les adapter à vos segments clés comme vos meilleurs clients. Pour vous aider à personnaliser vos e-mails et recibler ces segments, vous pouvez vous appuyer sur les données que vous avez rassemblées l&rsquo;année dernière.</p>
+<h2 style="color: #846060;">Aidez vos clients à trouver le cadeau parfait</h2>
+<p>Pour les consommateurs, Black Friday et Cyber Monday sont l&rsquo;occasion de faire un maximum d&rsquo;achats. Facilitez-leur la tâche en préparant des guides d&rsquo;achat adaptés à différents types de clients (parents, enfants, etc.) ou catégories de produits (petits cadeaux, vêtements d&rsquo;hiver).</p>
+<h2 style="color: #846060;">Proposez la livraison gratuite</h2>
+<p>S&rsquo;il y a une chose que les consommateurs préfèrent aux promotions, c&rsquo;est bien la livraison gratuite. Vous faites face à une épidémie de paniers abandonnés ? Pas de panique, la livraison gratuite est le traitement le plus efficace qui existe. Cet investissement peut sembler considérable pour les petites entreprises, mais il ne faut pas oublier que les frais d&rsquo;expédition sont la bête noire des consommateurs, qui préfèreront acheter chez vos concurrents proposant les frais de port offerts.</p>
+<p>Pour faire un choix réfléchi et optimiser le processus d&rsquo;expédition, posez-vous les questions suivantes :</p>
+<ul style="padding-left:30px">
+<li>Combien de commandes sont arrivées en retard ?</li>
+<li>Quelle a été la performance de nos partenaires ?</li>
+<li>Quelle option de livraison a été la plus utilisée ?</li>
+<li>Mes délais pour la livraison nationale et internationale étaient-ils assez précis ?</li>
+<li>Quels ont été mes frais de traitement et d&rsquo;expédition ?</li>
+</ul>
+<h2 style="color: #846060;">N&rsquo;oubliez pas vos pages « Erreur 404 » et « Aucun résultat »</h2>
+<p>Erreurs de saisie, variantes géographiques pour les noms de produits&#8230; parfois, les recherches effectuées par vos clients ne retournent aucun résultat. Ne risquez pas de perdre ces acheteurs potentiels en les redirigeant vers la redoutée « Erreur 404 ». Optimisez votre page en ajoutant des suggestions de produits similaires ou de best-sellers.</p>
+<h2 style="color: #846060;">Participez à notre enquête Black Friday/Cyber Monday !</h2>
+<p>C&rsquo;est un fait avéré, Black Friday et Cyber Monday sont les plus grosses journées shopping de l&rsquo;année aux États-Unis, mais qu&rsquo;en est-il dans les autres pays ? Le phénomène est-il arrivé en Europe ? Les e-commerçants basés en Amérique du Sud proposent-ils des promotions du même genre à cette période de l&rsquo;année ? Que se passe-t-il en Asie ?</p>
+<p>Pour mieux comprendre l&rsquo;impact de ces deux journées partout dans le monde, nous avons créé une enquête à laquelle vous pouvez dès maintenant participer ! Une fois les résultats analysés, nous les publierons dans cet article ainsi que sur les réseaux sociaux.</p>
+<p>Quel est votre plan d&rsquo;attaque pour Black Friday et Cyber Monday ? Dites-nous tout dans les commentaires !</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/black-friday-cyber-monday-approchent-grands-pas/">Black Friday et Cyber Monday approchent à grands pas !</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/black-friday-cyber-monday-approchent-grands-pas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 astuces pour booster vos ventes de fin d&#8217;année</title>
+		<link>https://www.prestashop.com/blog/fr/5-astuces-booster-vos-ventes-fin-dannee/</link>
+		<comments>https://www.prestashop.com/blog/fr/5-astuces-booster-vos-ventes-fin-dannee/#comments</comments>
+		<pubDate>Mon, 02 Nov 2015 08:30:01 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19478</guid>
+		<description><![CDATA[<p>C&#8217;est l&#8217;automne : le temps se rafraîchit, mais pour les PME, pas question de se prélasser à côté de la cheminée. À l&#8217;heure où vos stocks d&#8217;hiver commencent à arriver sur vos étagères, il est grand temps de décorer votre site Web. Dans cet article, nous vous présentons 5 idées pour une boutique 100 % [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/5-astuces-booster-vos-ventes-fin-dannee/">5 astuces pour booster vos ventes de fin d&rsquo;année</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>C&rsquo;est l&rsquo;automne : le temps se rafraîchit, mais pour les PME, pas question de se prélasser à côté de la cheminée. À l&rsquo;heure où vos stocks d&rsquo;hiver commencent à arriver sur vos étagères, il est grand temps de décorer votre site Web.</p>
+<p>Dans cet article, nous vous présentons 5 idées pour une boutique 100 % optimisée pour les fêtes et finir l&rsquo;année en beauté !<br />
+<span id="more-19478"></span></p>
+<h2 style="color: #99c83e">1. Relookez votre page d&rsquo;accueil</h2>
+<p>Optez pour une apparence festive en ajoutant de nouveaux visuels. Si vous utilisez le thème par défaut, ajoutez par exemple vos promotions hivernales au diaporama de votre page d&rsquo;accueil. Si vous voyez les choses en grand (et que vous disposez d&rsquo;assez de temps et d&rsquo;un budget suffisant), vous pouvez également créer une page d&rsquo;accueil spéciale fêtes. Couleurs festives, éléments saisonniers&#8230; laissez libre cours à votre créativité, mais n&rsquo;oubliez pas que votre image de marque doit se retrouver dans l&rsquo;apparence de votre site !</p>
+<h2 style="color: #99c83e">2. Mettez vos meilleures ventes en avant</h2>
+<p>Vous en avez terminé avec les guirlandes et les paillettes ? Il est temps de s&rsquo;attaquer à l&rsquo;expérience utilisateur. Commencez par afficher vos meilleures ventes et vos articles de Noël. Mettez-les en avant sur votre page d&rsquo;accueil pour booster le trafic sur les pages produit. Cela permet à chaque client de trouver le cadeau parfait.</p>
+<p>Pour optimiser au maximum l&rsquo;expérience de navigation, rassemblez vos produits en catégories claires et faciles à trouver. Par exemple, créez dès maintenant une page spéciale présentant les produits soldés pour Cyber Monday. Ensuite, vous pouvez créer des guides d&rsquo;achat pour différents types d&rsquo;occasions et de clients : famille, collègues, « Secret Santa »&#8230; Enfin, vous pouvez créer des catégories par prix pour vos clients ayant un budget limité. Vous pouvez regrouper vos articles par tranches de prix pour faciliter l&rsquo;expérience d&rsquo;achat. N&rsquo;oubliez pas de leur donner une apparence festive ! Pour aller plus loin, inspirez-vous de nos<br />
+<a href="https://www.prestashop.com/blog/en/4-awesome-ideas-valentines-day-gift-guides/">guides d&rsquo;achat pour la Saint Valentin</a>.</p>
+<h2 style="color: #99c83e">3. Parlez de vos offres spéciales</h2>
+<p>Une fois votre <a href="https://www.prestashop.com/blog/fr/5-astuces-reussir-campagne-promotionnelle/">campagne de ventes</a> finalisée, il ne vous reste plus qu&rsquo;à la faire connaître auprès de vos clients. Si vous avez garanti la livraison ponctuelle de commandes passées après une certaine date, n&rsquo;oubliez pas d&rsquo;en parler dans vos campagnes.</p>
+<p>Les meilleurs endroits pour mettre en avant vos promotions sont la page d&rsquo;accueil, les pages catégories, l&rsquo;en-tête et le panier. Pour promouvoir vos soldes Black Friday/Cyber Monday, <a href="https://www.prestashop.com/blog/en/a-quick-guide-to-promoting-black-friday-and-cyber-monday-sales/">découvrez nos astuces de l&rsquo;année dernière</a>.</p>
+<h2 style="color: #99c83e">4. N&rsquo;oubliez pas les pages produit !</h2>
+<p>La page produit est un vecteur de conversion essentiel : elle doit donc contenir une représentation graphique et une description du produit claires et précises. Pour découvrir comment prendre des photos de produits époustouflantes, consultez notre <a href="https://www.prestashop.com/blog/fr/guide-do-it-yourself-de-le-commerce-pour-de-parfaites-photos-de-produit/">guide photo</a>.</p>
+<p>Assurez-vous ensuite que votre page d&rsquo;accueil soutienne elle aussi la conversion client. Utilisez des titres clairs pour décrire vos produits, sans oublier les mots-clés des recherches effectuées par les utilisateurs. Si votre produit peut être décrit avec des termes différents (par exemple T-shirt/Tee Shirt), ajoutez chaque variante comme tag afin d&rsquo;optimiser la recherche au sein de votre site. Pour découvrir des exemples de pages produit réussies, consultez <a href="https://www.prestashop.com/blog/en/5-examples-of-ecommerce-product-pages-that-convert/">l&rsquo;article suivant</a>.</p>
+<p>Enfin, assurez-vous que vos prix s&rsquo;affichent clairement. Pour remplir leur hotte à ras bord, les clients veulent bénéficier de promotions imbattables. Vos prix doivent être bien lisibles pour éviter toute confusion.</p>
+<h2 style="color: #99c83e">5. Boostez les <a style="font-family: 'Roboto Condensed',Tahoma,Verdana,sans-serif;font-size: 28px;text-decoration: underline" href="http://addons.prestashop.com/fr/recherche?search_query=cross%20selling" target="_blank">ventes croisées</a> et la <a style="font-family: 'Roboto Condensed',Tahoma,Verdana,sans-serif;font-size: 28px;text-decoration: underline" href="http://addons.prestashop.com/fr/recherche?search_query=up-sell" target="_blank">montée en gamme</a></h2>
+<p>Une fois vos pages produit optimisées, vous pouvez améliorer la valeur panier moyenne grâce à deux méthodes principales : la vente croisée et la montée en gamme. La vente croisée consiste à proposer des produits complémentaires en fonction du contenu du panier : par exemple, sur la page d&rsquo;un soin visage, suggérez la crème contour des yeux de la même marque. La montée en gamme encourage les consommateurs à acheter davantage : pour l&rsquo;achat d&rsquo;un soin visage, proposez aux clients d&rsquo;acheter le panier cadeau contenant cet article.</p>
+<p>Pour découvrir comment augmenter la valeur panier, <a href="https://www.prestashop.com/blog/fr/5-conseils-pour-augmenter-le-panier-moyen-de-votre-site-e-commerce/">consultez notre article</a>.</p>
+<h2 style="color: #99c83e">Pour aller plus loin&#8230;</h2>
+<p>Vous avez terminé ? N&rsquo;oubliez pas de tester vos nouvelles pages et vos liens pour vous assurer que tout fonctionne. Voici une mini checklist des étapes essentielles à suivre.</p>
+<ul style="padding-left: 30px">
+<li>Masquez les produits épuisés pour éviter les déceptions.</li>
+<li>Testez tous vos liens dans votre navigateur.</li>
+<li>Assurez-vous que toutes vos nouvelles catégories de produits sont facilement consultables depuis la page d&rsquo;accueil.</li>
+<li>Ajoutez plusieurs articles à votre panier pour vérifier que les fonctionnalités de ventes croisées et de montée en gamme fonctionnent correctement.</li>
+<li>Testez rigoureusement votre site pour vous assurer qu&rsquo;aucun bug ne survient suite aux changements que vous avez apportés.</li>
+<li>Si vous aviez <a href="https://www.prestashop.com/blog/fr/parametres-simples-rapides-booster-vitesse-boutique-prestashop/">désactivé le cache</a> pour modifier votre site, réactivez-le.</li>
+</ul>
+<p>Prêts pour les fêtes de fin d&rsquo;année ? Faites-nous part de vos astuces et de vos conseils dans les commentaires.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/5-astuces-booster-vos-ventes-fin-dannee/">5 astuces pour booster vos ventes de fin d&rsquo;année</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/5-astuces-booster-vos-ventes-fin-dannee/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>L’extraordinaire pouvoir de YouTube et des influenceurs du web</title>
+		<link>https://www.prestashop.com/blog/fr/lextraordinaire-pouvoir-youtube-influenceurs-du-web/</link>
+		<comments>https://www.prestashop.com/blog/fr/lextraordinaire-pouvoir-youtube-influenceurs-du-web/#comments</comments>
+		<pubDate>Thu, 29 Oct 2015 08:30:42 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19470</guid>
+		<description><![CDATA[<p>Aujourd’hui notre agence web partenaire Envergure Digitale, spécialisée dans l’accompagnement des e-commerçants, partage son expertise et ses conseils pour faire des influenceurs du web un atout pour votre marque. Véritable phénomène viral, les vidéos YouTube déferlent sur la Toile. Découvrez vite d’où vient cette nouvelle tendance et les avantages pour votre marque à prendre ce [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/lextraordinaire-pouvoir-youtube-influenceurs-du-web/">L’extraordinaire pouvoir de YouTube et des influenceurs du web</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Aujourd’hui notre agence web partenaire <a href="https://www.prestashop.com/fr/agences-web-partenaires/seo/envergure-digitale" target="_blank">Envergure Digitale</a>, spécialisée dans l’accompagnement des e-commerçants, partage son expertise et ses conseils pour faire des influenceurs du web un atout pour votre marque.</p>
+<p>Véritable phénomène viral, les vidéos YouTube déferlent sur la Toile. Découvrez vite d’où vient cette nouvelle tendance et les avantages pour votre marque à prendre ce virage désormais indispensable que sont les relations avec les influenceurs du web.<br />
+<span id="more-19470"></span></p>
+<h2 style="color: #cd201f;">1 &#8211; Pourquoi travailler les relations influenceurs pour sa marque ?</h2>
+<p>C’est grâce à la naissance de YouTube en 2005 que ce phénomène a pu émerger. A titre d’exemple, la youtubeuse beauté américaine Michelle Phan a lancé sa chaîne en 2006 (8 millions d’abonnés en 2015) alors que l’humoriste Cyprien s’est lancé dans l’aventure YouTube en 2007 et que le célèbre youtubeur Gotoga a sauté le pas en 2008.</p>
+<p>Aujourd’hui, des études révèlent que les jeunes Françaises (15-35 ans) passent plus de temps sur les chaînes des grandes youtubeuses que sur les grands sites féminins. Mais ne pensez surtout pas qu’il n’existe que des youtubeuses mode et beauté dont le public est composé de jeunes filles ! Chaque secteur saura trouver son youtubeur.</p>
+<p>A l’instar des relations presse, l’objectif des Relations Influenceurs dans le cadre d’une stratégie de communication digitale est multiple. Faire parler de soi de façon positive, obtenir des liens qualifiés, acquérir de nouveaux visiteurs, augmenter sa visibilité, accroître ses ventes et travailler son image de marque par exemple. Mieux encore, les influenceurs sont par essence des individus ultra connectés, avec une présence sociale très forte. Les contenus produits pour votre marque seront tweetés, retweetés, likés et partagés sur Facebook et sur les autres plateformes sociales pour être vus par le plus grand nombre.</p>
+<p>Plus important encore, c’est la relation établie entre l’influenceur et sa communauté qui doit vous interpeller. En effet, vous proposez du contenu de qualité sur vos supports blog et réseaux sociaux par exemple, mais en vous dévoilant très peu. Les influenceurs eux, n’hésitent pas à parler d’eux, à montrer l’ « envers du décor », à partager leur état d’âmes… ! Ils offrent à leurs abonnés et lecteurs la possibilité d’établir une relation de proximité. Les internautes se sentent donc beaucoup plus proches des influenceurs que des marques parce que ces derniers donnent une dimension (par leur nature même) plus humaine à leurs contenus. En se sentant très proches des Influenceurs, les internautes  font le choix de suivre les tendances et d’acheter ce qui va leur être recommandé.</p>
+<p>Concernant la forme, il est possible de réaliser différents types de collaboration avec les influenceurs : partenariat unique ou ponctuel, événementiel, placement produit dans une vidéo ou encore organisation d’un jeu-concours, &#8230; tout est possible ! Cependant, pour que cette opération soit un succès à la fois pour la marque et pour l’influenceur, il faut faire attention aux produits présentés et s’assurer que ces derniers soient adaptés à la cible principale de l’influenceur. Ces derniers ont construit leur réputation et leur communauté grâce à leur honnêteté et à la qualité de leurs avis, ils ne peuvent pas se permettre de dénaturer leurs contenus avec des messages trop intrusifs.</p>
+<h2 style="color: #cd201f;">2 &#8211; Comment choisir les influenceurs avec qui collaborer ?</h2>
+<p>Les relations influenceurs sont actuellement une vague sur laquelle beaucoup de marques tentent de surfer, et il existe aujourd’hui pléthore de blogueurs et de youtubeurs prêts à réaliser des partenariats avec elles. Mais attention au choix de l’influenceur ! Toute incohérence avec votre marque ou tout message perçu comme trop publicitaire pourrait interpeller les internautes et créer un véritable phénomène de bad buzz autour de votre image.</p>
+<p>C’est pourquoi avant de lancer une opération avec un influenceur du web, il est primordial d&rsquo;identifier préalablement ceux qui sont le plus susceptible de promouvoir votre marque ou vos produits de façon naturelle et efficace afin que le partenariat soit un succès. Même si le nombre d’abonnés actifs sur les différentes plateformes sociales est capital pour déterminer un bon influenceur du web, d’autres paramètres sont à prendre en compte.</p>
+<p>Tout d’abord, il faut identifier le rythme de publication. Un bon influenceur est une personne qui poste régulièrement du contenu de qualité sur son support principal et ses réseaux sociaux. Autrement dit, un bon youtubeur est une personne qui publie ses vidéos de manière définie : il donne rendez-vous à sa communauté chaque semaine, et ses abonnés sont plus réceptifs au contenu publié puisqu’ils attendent cette nouvelle vidéo avec impatience.</p>
+<p>Ensuite, un bon influenceur entretient des liens forts avec sa communauté : il répond aux commentaires, partage du contenu proposé par ses abonnés ou encore les remercie de le suivre au quotidien. Ainsi il créé une vértiable relation de proximité avec ses abonnés en leur montrant qu’il est comme eux ; et c’est là que réside la clé de son succès ! Il attise par-là son capital sympathie et ses abonnés sont alors plus enclins à suivre ses conseils.</p>
+<p>Enfin, pour reconnaître un influenceur pertinent, identifiez le contenu sponsorisé qu’il propose sur ses plateformes. S’il présente majoritairement du contenu sponsorisé, cela signifie qu’il est en train de se transformer en “vitrine publicitaire”, ce qui sur le long terme lassera ses abonnés. A l’inverse, un bon influenceur propose aussi bien du contenu original dans lequel il cite des produits ou des marques par lui-même sans que ces dernières ne l’ai contacté, que du contenu sponsorisé ; signe que des marques lui font confiance !</p>
+<h2 style="color: #cd201f;">3 &#8211; Vous n’êtes toujours pas persuadés de l’utilité des Relations Influenceur ? Ces quelques chiffres devraient vous convaincre !</h2>
+<ul style="padding-left: 30px">
+<li>4 milliards : c’est le nombre de vidéos YouTube visionnées chaque jour, ce qui représente 4% du trafic internet mondial.</li>
+<li>60% des internautes sont prêts à acheter un produit recommandé par un youtubeur.</li>
+<li>96% des jeunes regardent des vidéos YouTube, en moyenne pendant 11h par semaine.</li>
+<li>93 % des personnes ayant fait appel à des influenceurs remarquent que les stratégies d’influence leur ont permis d’obtenir de meilleurs résultats en matière de visibilité.</li>
+</ul>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/lextraordinaire-pouvoir-youtube-influenceurs-du-web/">L’extraordinaire pouvoir de YouTube et des influenceurs du web</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/lextraordinaire-pouvoir-youtube-influenceurs-du-web/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Prévision des ventes pour les PME : premiers pas</title>
+		<link>https://www.prestashop.com/blog/fr/prevision-des-ventes-pour-les-pme-premiers-pas/</link>
+		<comments>https://www.prestashop.com/blog/fr/prevision-des-ventes-pour-les-pme-premiers-pas/#comments</comments>
+		<pubDate>Thu, 29 Oct 2015 08:30:26 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19462</guid>
+		<description><![CDATA[<p>Business Dictionary définit la prévision comme un outil permettant aux dirigeants d&#8217;anticiper les évènements à venir à l&#8217;aide de données actuelles ou anciennes et d&#8217;analyses des tendances. Pour faire simple, l&#8217;objectif est de « prédire » l&#8217;avenir. Pour les commerçants, la prévision concerne avant tout les ventes. Rares sont les petites entreprises qui décident d&#8217;investir [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/prevision-des-ventes-pour-les-pme-premiers-pas/">Prévision des ventes pour les PME : premiers pas</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.businessdictionary.com/definition/forecasting.html#ixzz3maqCFo2f" target="_blank">Business Dictionary</a> définit la <strong>prévision</strong> comme un outil permettant aux dirigeants d&rsquo;anticiper les évènements à venir à l&rsquo;aide de données actuelles ou anciennes et d&rsquo;analyses des tendances. Pour faire simple, l&rsquo;objectif est de « prédire » l&rsquo;avenir. Pour les commerçants, la prévision concerne avant tout les ventes.</p>
+<p>Rares sont les petites entreprises qui décident d&rsquo;investir dans des solutions de prévision dès leur création. Pourtant, ces outils peuvent considérablement les aider à évaluer leur performance, à estimer leur croissance et à assurer leur développement progressif. </p>
+<p><span id="more-19462"></span><br />
+Vous vous êtes déjà penché(e) sur vos résultats du mois précédent pour estimer vos ventes du mois suivant ? Si c&rsquo;est le cas, vous avez déjà fait vos premiers pas dans la prévision. Dans cet article, nous vous présentons les principes fondamentaux de la prévision ainsi que des ressources pour des analyses plus avancées. La portée de vos prévisions dépend directement de la quantité de données dont vous disposez : par exemple, si vous exercez votre activité depuis trois ans, vos prévisions seront certainement plus fiables et plus détaillées que celles d&rsquo;un commerçant dont la boutique a moins de trois mois.</p>
+<h2 style="color:#251b5b">Prévisions sans historique</h2>
+<p>La plupart des nouvelles entreprises commencent avec ce type de prévision. C&rsquo;est une étape cruciale dans la création d&rsquo;un <a href="https://www.prestashop.com/blog/fr/creer-sa-boutique-en-ligne-10-etapes-pour-confectionner-son-business-plan/">business plan</a> et un facteur de taille pour les investisseurs potentiels. Sans données, la prévision se transforme en devinette. Par contre, vous pouvez vous appuyer sur des informations pertinentes pour faire une estimation raisonnable. Inspirez-vous des tendances du secteur et des entreprises similaires à la vôtre. En découvrant leur évolution, vous pourrez mieux estimer la performance à venir de votre boutique. Voici d&rsquo;autres aspects dont vous devez tenir compte : </p>
+<ul style="padding-left: 30px">
+<li>votre parcours (vos précédents projets ont-ils porté leurs fruits ?) ; </li>
+<li>le parcours partenaire (allez-vous vous associer à une personne avec un taux de réussite plus élevé ?) ; </li>
+<li>la demande produit (comparaison du comportement d&rsquo;achat et du processus d&rsquo;achat). </li>
+</ul>
+<p>La chambre de commerce de votre région et certaines organisations commerciales peuvent également vous aider à affiner vos prévisions du fait de leur expérience avec des entreprises similaires. Plus vous avez d&rsquo;informations, plus vous gagnez en précision. </p>
+<h2 style="color:#251b5b">Prévisions avec historique 1 mois</h2>
+<p>Une fois votre premier mois de ventes écoulé, il vous sera facile d&rsquo;estimer le volume de ventes du mois à venir. Vous bénéficierez ainsi d&rsquo;un chiffre approximatif ne tenant pas compte des aléas et autres imprévus. Malheureusement, cette méthode n&rsquo;est pas la plus fiable. Prenez l&rsquo;exemple des fêtes de fin d&rsquo;année : vous réalisez un chiffre d&rsquo;affaires de 1 500 € pendant les vacances, mais vous ne pouvez en aucun cas vous attendre à tenir la même cadence au cours des mois qui suivent. En effet, les fêtes de fin d&rsquo;année sont propices aux achats. En conclusion, ce type de prévision vous permet de vous faire une idée approximative, mais il est essentiel de tenir compte du contexte dans lequel vous évoluez.</p>
+<h2 style="color:#251b5b">Prévisions avec historique 3 mois</h2>
+<p>Si vous accumulez des données sur plusieurs mois, vous pourrez affiner vos précisions en faisant la moyenne de vos ventes. Vous aurez également amassé assez de données pour commencer à discerner des tendances. Voici une vidéo explicative concernant la <a href="https://www.youtube.com/watch?v=TFxm-1smXjM" target="_blank">création d&rsquo;une courbe dans Excel</a>. Que vos ventes soient à la hausse ou à la baisse, cet outil vous permet de les visualiser clairement sur un graphique.</p>
+<h2 style="color:#251b5b">Prévisions avec historique 1 an</h2>
+<p>En continuant à suivre vos ventes au cours de l&rsquo;année, vous bénéficiez d&rsquo;une meilleure vue sur l&rsquo;évolution de votre activité. En revanche, selon les saisons, vous remarquerez parfois des hausses ou des baisses marquées, par exemple au cours des périodes de soldes (fin d&rsquo;année) ou des saisons plus calmes comme l&rsquo;été. Dans le cadre de la prévision, ces phénomènes sont appelés facteurs saisonniers. Afin de prévoir vos ventes sur le trimestre suivant, calculez votre moyenne annuelle et la moyenne de chaque trimestre. Divisez ensuite vos résultats trimestriels par cette première moyenne. Estimez le volume de ventes que vous réaliserez l&rsquo;année suivante. Multipliez enfin cette prévision par l&rsquo;impact qu&rsquo;ont les facteurs saisonniers sur votre activité. Vous obtenez ainsi une estimation trimestrielle. </p>
+<p>Voici un exemple de prévision pour une croissance annuelle de 11,8 %. </p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/10/tab-guide-fr.png" alt="tab-guide-fr" width="479" height="259" class="aligncenter size-full wp-image-19464" /></p>
+<p>Pour découvrir une autre approche, consultez <a href="http://www.forbes.com/sites/billconerly/2014/12/17/how-to-adjust-your-business-data-for-seasonality/" target="_blank">le tutoriel</a> de Forbes.</p>
+<h2>Prévisions avec historique sur plusieurs années</h2>
+<p>Une fois que vous aurez collecté des données sur plusieurs années, vous n&rsquo;aurez même plus besoin d&rsquo;estimer la croissance sur l&rsquo;année suivante. Vous pourrez faire vos prévisions sans recourir à des approximations. Nous vous conseillons de créer un tableau Excel rassemblant toutes les informations accumulées au fil des années. À l&rsquo;aide des fonctionnalités d&rsquo;Excel, vous pourrez créer un tableau qui vous donnera automatiquement des informations sur vos ventes à venir. Pour en savoir plus, consultez cet article sur la <a href="http://www.exceluser.com/excel_dashboards/seasonality-sales.htm" target="_blank">création d&rsquo;un tableau de prévisions dans Excel</a>. Attention ! Pour ce type de tableau, une grande quantité de données est nécessaire. Vous bénéficierez ainsi d&rsquo;une plus grande précision pour vos prévisions de ventes.</p>
+<h2 style="color:#251b5b">Petites entreprises : pourquoi faire des prévisions ?</h2>
+<p>Si vous venez de vous lancer, la prévision des ventes est un élément essentiel de votre business plan. Au fil du temps, vous pourrez non seulement prévoir vos ventes, mais également :</p>
+<ul style="padding-left: 30px">
+<li>estimer vos dépenses ;</li>
+<li>gérer le réapprovisionnement ; </li>
+<li>évaluer la performance produit (nouveaux produits) ;</li>
+<li>évaluer l&rsquo;impact de vos opérations marketing ; </li>
+<li>estimer vos revenus (ventes &#8211; dépenses).</li>
+</ul>
+<h2 style="color:#251b5b">Prévision et précision</h2>
+<p>N&rsquo;oubliez pas que lorsque vous faites des prévisions, vous tenez certains facteurs pour acquis. Les prévisions ne peuvent tenir compte de certains aléas comme les catastrophes naturelles et les fluctuations du marché en général ou de votre secteur d&rsquo;activité. Elles ne vous donnent qu&rsquo;un chiffre indicatif : c&rsquo;est à vous de l&rsquo;interpréter correctement. </p>
+<p>Prévoyez dès maintenant vos ventes pour la période des fêtes. Profitez-en également pour aller plus loin et <a href="https://www.prestashop.com/blog/fr/7_conseils_pour_booster_vos_ventes_a_noel/">boostez vos ventes de Noël</a>.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/prevision-des-ventes-pour-les-pme-premiers-pas/">Prévision des ventes pour les PME : premiers pas</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/prevision-des-ventes-pour-les-pme-premiers-pas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Audit de boutique – 6 conseils pour optimiser vos ventes</title>
+		<link>https://www.prestashop.com/blog/fr/audit-boutique-6-conseils-optimiser-vos-ventes/</link>
+		<comments>https://www.prestashop.com/blog/fr/audit-boutique-6-conseils-optimiser-vos-ventes/#comments</comments>
+		<pubDate>Mon, 26 Oct 2015 08:30:43 +0000</pubDate>
+		<dc:creator><![CDATA[Cécile Dubouis]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19453</guid>
+		<description><![CDATA[<p>Comment optimiser la navigation et inciter davantage de visiteurs à acheter sur votre site ? Fiche produit, balises de référencement, filtres des produits, favicon, paiement…On vous dit tout cette semaine avec l’audit du site DimplesandDandelions et les adorables jeux pour enfants que cette boutique britannique propose ! 3 conseils pour personnaliser votre boutique et optimiser [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/audit-boutique-6-conseils-optimiser-vos-ventes/">Audit de boutique – 6 conseils pour optimiser vos ventes</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Comment optimiser la navigation et inciter davantage de visiteurs à acheter sur votre site ? Fiche produit, balises de référencement, filtres des produits, favicon, paiement…On vous dit tout cette semaine avec l’audit du site <a href="http://www.dimplesanddandelions.co.uk/" target="_blank">DimplesandDandelions</a> et les adorables jeux pour enfants que cette boutique britannique propose !<br />
+<span id="more-19453"></span></p>
+<h2 style="color:#f05881">3 conseils pour personnaliser votre boutique et optimiser la navigation</h2>
+<h4 style="color:#9bd5c4">Les + :</h4>
+<p>On plonge directement dans le monde de l’enfance avec ses couleurs douces. Tout touche à l’affect des parents : du visuel principal de la page d’accueil avec les enfants, à l’utilisation du terme « pre-loved ».</p>
+<p>Le site est responsive et donc optimisé pour tous les supports (mobile, tablette, ordinateur). Parfait pour le public visé qui aura tendance à naviguer depuis son smartphone.</p>
+<p>Le bouton back to top est très pratique pour naviguer sur les longues pages, c’est une bonne chose de l’avoir ajouté. Maintenant, comme vous proposez de beaux produits, n’hésitez pas à en afficher davantage sur la page d’accueil !</p>
+<h4 style="color:#9bd5c4">Les axes d’optimisation :</h4>
+<ul style="padding-left:30px">
+<li>
+		<strong>Personnaliser le favicon</strong>
+	</li>
+</ul>
+<p>Voici l’une des premières images que vous donnez de votre site à vos visiteurs : le favicon.</p>
+<p style="color:#5b9bd5;font-style:italic">Qu’est-ce qu’un favicon ?<br />
+Il s’agit de l’icône qui symbolise un site web. C’est cette icône qu’utilisent les navigateurs web pour illustrer l’onglet de votre site, la barre d’adresse, la barre de titre, les favoris…
+</p>
+<p>Pour personnaliser votre favicon :</p>
+<ol>
+<li>Rendez-vous sur un <a href="http://www.favicon.cc/" target="_blank">générateur de favicons</a>.</li>
+<li>Deux possibilités : soit vous dessinez votre favicon avec les outils mis à votre disposition, soit vous créez au préalable une icône carrée (au format gif, jpeg ou png), puis vous l’importez. L’idéal étant bien sûr de reprendre un élément remarquable de votre logo.<br />
+	Le générateur enregistre alors votre favicon au format .ico.</li>
+<li>Une fois votre favicon générée, vous pourrez l’enregistrer depuis le back office de votre boutique, dans Préférences / Thèmes / Icônes</li>
+</ol>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/10/2.FaviconFR-1024x463.png" alt="2.FaviconFR" width="700" height="316" class="aligncenter size-large wp-image-19455" /></p>
+<ul style="padding-left:30px">
+<li>
+		<strong>Phrase d’accueil et balises de référencement</strong>
+	</li>
+</ul>
+<p>En une phrase sur votre page d’accueil, indiquez l’activité de votre boutique. Ainsi, vos visiteurs comprennent en un coup d’œil ce qu’ils trouveront sur votre boutique, par exemple : « Les jouets préférés des enfants », « Les meilleurs jouets pour enfants »…</p>
+<p>Côté référencement, il est indispensable que les balises que vous avez renseignées pour le référencement naturel de votre boutique (meta title, description…) correspondent exactement à votre activité. </p>
+<p>Listez vos mots-clés (jouets enfants,…) et utilisez-les dans la rédaction de vos balises pour le référencement. </p>
+<p>Cette partie se personnalise dans votre back-office : Préférences / SEO &amp; URL / Index.</p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/10/3.SEO_-1024x300.png" alt="3.SEO" width="700" height="205" class="aligncenter size-large wp-image-19456" /></p>
+<p style="color:#5b9bd5;font-style:italic">Pour vous aider, voici la limite du nombre de caractères pour optimiser vos balises de référencement :<br />
+Balise Title : 60 caractères (espaces compris)<br />
+Balise Meta Description : 160 (espaces compris)
+</p>
+<ul style="padding-left:30px">
+<li>
+		<strong>Désactiver le comparateur de produits</strong>
+	</li>
+</ul>
+<p>Si vos produits ne peuvent pas tous être comparés (poupée et livre de coloriage…), n’hésitez pas à désactiver le comparateur sur votre boutique, pour éviter les déceptions ou messages d’erreur.</p>
+<p style="color:#5b9bd5;font-style:italic">Pour désactiver le comparateur de produits sur votre boutique en version PrestaShop 1.6, rendez-vous dans votre back-office, dans Préférences / Thèmes, puis cliquez sur « Paramètres avancés ». Dans le bloc « Apparence des colonnes », cherchez la ligne « Products comparison », et désactiver les colonnes actives.</p>
+<h2 style="color:#f05881">3 astuces pour augmenter votre taux de transformation</h2>
+<h4 style="color:#9bd5c4">Les + :</h4>
+<p>La livraison offerte annoncée en page d’accueil est très incitative à aller consulter le catalogue, c’est un excellent argument bien mis en avant !<br />
+Le tunnel d’achat en une seule page (« one page checkout ») est également rapide et clair. Et le fait de proposer 3 modes différents de livraison répond aux besoins de tous vos clients, les plus économes comme les plus pressés.</p>
+<h4 style="color:#9bd5c4">Les axes d’optimisation :</h4>
+<ul style="padding-left:30px">
+<li>
+		<strong>Classifier les produits</strong>
+	</li>
+</ul>
+<p>Actuellement, il y a 5 catégories principales, que l’on retrouve dans le menu (sur chaque page) mais également en haut de la colonne de gauche. Les informations générales sont également en double : dans le menu et dans la colonne de gauche.</p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/10/5.-Category-1024x691.png" alt="5. Category" width="700" height="472" class="aligncenter size-large wp-image-20789" /></p>
+<p>En proposant une navigation à facettes sur cette colonne, vous aiderez vos visiteurs à trouver le cadeau dont ils ont besoin.</p>
+<p style="color:#5b9bd5;font-style:italic">La navigation à facettes permet à vos visiteurs d’affiner leur recherche en quelques clics pour trouver facilement les produits correspondant à leurs besoins (taille, couleur, âge, style, prix…). Cet outil vous permet d’augmenter votre taux de conversion. Trouvez les filtres qui correspondent à vos produits !</p>
+<p>La navigation à facettes est notamment idéale pour les idées cadeaux, profitez-en ! Proposez par exemple des filtres pour retrouver vos produits par âge, par genre (fille, garçon, mixte), par tranche de prix… Les exemples sont multiples.  </p>
+<p class="text-center" style="margin: 30px 0">
+	<a href="http://addons.prestashop.com/fr/510-recherches-filtres" target="_blank" style="color:#df0067;font-size:16px;text-decoration:underline">Découvrir les modules de filtres produits</a>
+</p>
+<ul style="padding-left:30px">
+<li>
+		<strong>Optimiser la page produit</strong>
+	</li>
+</ul>
+<p>Vous avez de beaux produits et des visuels qualitatifs qui donnent très envie de passer commande !<br />
+En revanche, certains produits mériteraient davantage d’informations pour aider à finaliser l’achat, comme cet adorable renne : </p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/10/4.-Product-1024x679.png" alt="4. Product" width="700" height="464" class="aligncenter size-large wp-image-20793" /></p>
+<p>Pour le rendre plus incitatif, vous avez plusieurs possibilités :</p>
+<ul style="padding-left:30px">
+<li>Ajouter un visuel en situation (avec un enfant) pour que l’on comprenne immédiatement la fonctionnalité du produit et qu’on l’ait une idée de sa dimension.</li>
+<li>Ajouter les dimensions du produit dans le descriptif détaillé, la matière…</li>
+<li>Ajouter une vidéo du produit</li>
+<li>Ajouter des badges sur vos fiches produits (par exemple « très doux », « développe la motricité », « idéal en plein air »…)</li>
+</ul>
+<p class="text-center" style="margin: 30px 0">
+	<a href="http://addons.prestashop.com/fr/465-badges-logos" target="_blank" style="color:#df0067;font-size:16px;text-decoration:underline">Découvrir les modules de badges et logos</a>
+</p>
+<ul style="padding-left:30px">
+<li>
+		<strong>Moyens de paiement et réassurance</strong>
+	</li>
+</ul>
+<p>Actuellement, dans le footer, seul le logo PayPal apparaît, même si sur le panier, il est proposé la possibilité de régler la commande par carte bancaire sur le site de PayPal. Ceci peut alors constituer un frein chez certains de vos visiteurs pensant qu’il leur faut un compte PayPal pour pouvoir payer. </p>
+<p>Au Royaume-Uni, plus de 88% des acheteurs en ligne effectuent leurs transactions par carte bancaire, contre près de 8% par PayPal. N’hésitez pas à séduire cette large majorité de clients potentiels en indiquant clairement que vous acceptez les paiements par carte et en ajoutant également un moyen de paiement populaire par carte en plus du paiement sur la plateforme PayPal. </p>
+<p class="text-center" style="margin: 30px 0">
+	<a href="http://addons.prestashop.com/fr/482-paiement-par-carte-ou-wallet" target="_blank" style="color:#df0067;font-size:16px;text-decoration:underline">Découvrir les modules de paiement par carte bancaire</a>
+</p>
+<p>Excellente continuation et très belles ventes à l’approche des fêtes de Noël ! </p>
+<p>Retrouvez tous les conseils de nos précédents audits en ligne :</p>
+<p><a href="https://www.prestashop.com/blog/fr/audit-boutique-les-minions/">Boutique des Minions</a><br />
+<a href="https://www.prestashop.com/blog/fr/audit-boutique-100-football/">Boutique Futbol100%</a></p>
+<p><em>Vous souhaitez être tiré au sort pour le prochain audit en ligne ? Envoyez-nous l’URL de votre boutique ainsi que les problématiques que vous souhaitez particulièrement aborder (trafic, conversions, fidélisation…) à <a href="mailto:ecommerce-evaluation@prestashop.com">ecommerce-evaluation@prestashop.com</a></em></p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/audit-boutique-6-conseils-optimiser-vos-ventes/">Audit de boutique – 6 conseils pour optimiser vos ventes</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/audit-boutique-6-conseils-optimiser-vos-ventes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Glennys Castro : une artiste au parcours atypique</title>
+		<link>https://www.prestashop.com/blog/fr/glennys-castro-artiste-au-parcours-atypique/</link>
+		<comments>https://www.prestashop.com/blog/fr/glennys-castro-artiste-au-parcours-atypique/#comments</comments>
+		<pubDate>Mon, 19 Oct 2015 15:37:11 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Success Story]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19447</guid>
+		<description><![CDATA[<p>L&#8217;indicateur clé de la réussite pour tout artiste en herbe, c&#8217;est d&#8217;être contacté par une galerie d&#8217;art. C&#8217;est un véritable rite de passage, à l&#8217;image des étudiants en médecine recevant leur blouse blanche, une consécration récompensant une approche unique longuement travaillée malgré des périodes de doute concernant ce choix professionnel. Il est toutefois possible de [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/glennys-castro-artiste-au-parcours-atypique/">Glennys Castro : une artiste au parcours atypique</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L&rsquo;indicateur clé de la réussite pour tout artiste en herbe, c&rsquo;est d&rsquo;être contacté par une galerie d&rsquo;art. C&rsquo;est un véritable rite de passage, à l&rsquo;image des étudiants en médecine recevant leur blouse blanche, une consécration récompensant une approche unique longuement travaillée malgré des périodes de doute concernant ce choix professionnel. Il est toutefois possible de trouver succès et réussite sans passer par les galeries d&rsquo;art. Dans cette success story, nous vous racontons l&rsquo;histoire de Glennys, une artiste devenue commerçante PrestaShop avec brio.<br />
+<span id="more-19447"></span></p>
+<p>Depuis les années 1990, Glennys ne cesse de peindre et de peaufiner son propre style et son approche. Inspirée du monde qui l&rsquo;entoure, ses créations reflètent son expérience personnelle, de ses souvenirs de vacances à ses interprétations abstraites de la nature et de sa beauté. Elle avait déjà commencé à présenter son portfolio, mais faisait souvent face à des critiques lui reprochant son style unique et éclectique.</p>
+<p>Cette expérience difficile allait finalement s&rsquo;avérer bénéfique. Les galeries qui la contactaient demandaient des commissions de 50 % sur les ventes : pour pouvoir vivre de son métier, il aurait fallu que Glennys hausse sensiblement les prix de ses créations. Elle s&rsquo;est alors rendu compte que les galeries d&rsquo;art ne convenaient pas à tout le monde, surtout dans son cas. </p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/10/GlennysGallery3.png" alt="GlennysGallery3" width="767" height="519" class="aligncenter size-full wp-image-20784" /></p>
+<p><strong><a href="http://glennyscastro.gallery/index.php?id_product=161&amp;controller=product&amp;id_lang=1" target="_blank">Surf and Turf</a> 100 X 150 cm, Techniques mixtes sur toile, 2 160 $</strong></p>
+<h2 style="color:#3f4d67">Entrepreneuriat en ligne : le commencement</h2>
+<p>Sans galerie d&rsquo;art pour assurer la partie promotion, Glennys a dû faire parler d&rsquo;elle. Grâce au réseautage au sein de sa communauté, notamment à l&rsquo;école fréquentée par ses enfants, aux clubs de sport et aux restaurants, elle a pris ses propres initiatives et a su se faire connaître à Porto Rico, son île natale. Une fois tous ces liens tissés, on lui a proposé de créer des t-shirts et des bijoux, et même de participer à des projets mode : Glennys s&rsquo;est rendu compte qu&rsquo;elle avait un véritable don pour l&rsquo;entrepreneuriat. Elle a donc décidé d&rsquo;exposer ses créations. Après tout, elle s&rsquo;occupait déjà d&rsquo;en faire la promotion ! Malheureusement, l&rsquo;achat ou la location d&rsquo;une galerie traditionnelle n’était pas été rentable pour elle&#8230; c&rsquo;est là que le Web entre en scène ! </p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/10/GlennysGallery2.png" alt="GlennysGallery2" width="800" height="250" class="aligncenter size-full wp-image-20783" /></p>
+<h2 style="color:#3f4d67">Création d&rsquo;une e-boutique</h2>
+<p>Sa décision est prise : Glennys souhaite créer sa propre galerie en ligne. Pour lancer son projet, elle fait appel à l&rsquo;une de ses amies qui utilise déjà PrestaShop pour sa boutique. « Comme moi, elle n&rsquo;était pas très technophile, mais elle utilisait cette plateforme sans problèmes. Quel soulagement ! », explique Glennys, le sourire aux lèvres. « Après avoir fait mon choix, j&rsquo;ai contacté un webdesigner indépendant, Rey Castillo, pour créer mon site Web. Il est resté à l&rsquo;écoute tout au long du processus de création de la boutique, tout en s&rsquo;assurant que je trouve réponse à toutes mes questions (même les plus simples). Il m&rsquo;a également recommandé plusieurs modules : Google Analytics, PayPal USA et des tableaux de bord pour visualiser les visites et les visiteurs. Une fois l&rsquo;ossature de ma boutique créée, il ne restait plus qu&rsquo;à ajouter des produits (un procédé très simple) accompagnés de meta informations pour optimiser le référencement. » </p>
+<h2 style="color:#3f4d67">Premières ventes</h2>
+<p>Une fois son site créé, Glennys en parle autour d&rsquo;elle, hors ligne. Elle se concentre ensuite sur le marketing en ligne, en créant sa page Facebook et son propre blog, un espace où elle peut parler à la fois de son parcours personnel et de l&rsquo;évolution de son approche artistique. L&rsquo;honnêteté caractéristique de ses billets a dès le début attiré de nombreux lecteurs au niveau local et international. Petit à petit, Glennys s&rsquo;est fait connaître de la communauté. De plus en plus de personnes commencent à récupérer des créations dans son studio : son activité est en plein essor. Trois mois seulement après le lancement de son site, Glennys a réalisé sa première vente en ligne. « C&rsquo;était une double réussite : mon site faisait à la fois office de boutique en ligne et de galerie d&rsquo;art pour les acheteurs locaux », explique-t-elle.</p>
+<h2 style="color:#3f4d67">Et maintenant ?</h2>
+<p>Alors que sa boutique commence à prendre son rythme de croisière, Glennys ne réduit pas la cadence pour autant. Pour apporter toujours plus de dynamisme à son activité, elle ajoute régulièrement des produits à sa galerie et crée de nouvelles collections. Elle garde également son blog et sa page Facebook à jour pour maximiser l&rsquo;engagement de ses clients et les informer de ses derniers projets. </p>
+<p>Pour Glennys, l&rsquo;entrepreneuriat en ligne est avant tout synonyme d&rsquo;indépendance. « En lançant cette boutique, je suis à la fois chef d&rsquo;entreprise, vendeuse et entrepreneuse, mais je peux aussi jongler entre mes responsabilités de mère, d&rsquo;épouse et de pédagogue. Enfin, c&rsquo;est moi qui crée toutes les pièces exposées dans cette galerie. » </p>
+<p>Vous rêvez de vous lancer dans l&rsquo;entrepreneuriat ? Écrivez dès maintenant votre success story en créant <a href="https://www.prestashop.com/fr/creer-votre-boutique-en-ligne">votre propre boutique en ligne</a>. En panne d&rsquo;inspiration ? Découvrez tous nos exemples de <a href="https://www.prestashop.com/blog/fr/category/success-story/">success story</a>. </p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/glennys-castro-artiste-au-parcours-atypique/">Glennys Castro : une artiste au parcours atypique</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/glennys-castro-artiste-au-parcours-atypique/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fonds d&#8217;Intégration PrestaShop : 1 million de dollars pour faire de votre idée une réalité</title>
+		<link>https://www.prestashop.com/blog/fr/fonds-dintegration-prestashop-1-million-de-dollars-pour-faire-de-votre-idee-une-realite/</link>
+		<comments>https://www.prestashop.com/blog/fr/fonds-dintegration-prestashop-1-million-de-dollars-pour-faire-de-votre-idee-une-realite/#comments</comments>
+		<pubDate>Wed, 14 Oct 2015 08:30:12 +0000</pubDate>
+		<dc:creator><![CDATA[Margaux Choplin]]></dc:creator>
+				<category><![CDATA[Actualités PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19431</guid>
+		<description><![CDATA[<p>Vous vivez encore chez vos parents ? Faites vos valises et envoyez votre candidature au Fonds d&#8217;Intégration ! Le lancement de notre Fonds d&#8217;Intégration d&#8217;un million de dollars témoigne des efforts entrepris pour proposer des modules locaux aux e-commerçants via PrestaShop Addons. En quelques semaines seulement, nous avons reçu plus de 300 candidatures et assisté [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/fonds-dintegration-prestashop-1-million-de-dollars-pour-faire-de-votre-idee-une-realite/">Fonds d&rsquo;Intégration PrestaShop : 1 million de dollars pour faire de votre idée une réalité</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Vous vivez encore chez vos parents ? Faites vos valises et envoyez votre candidature au Fonds d&rsquo;Intégration !</p>
+<p>Le <a href="https://www.prestashop.com/blog/fr/prestashop-lance-fonds-dintegration-1-million-dollars-communaute/">lancement</a> de notre <strong>Fonds d&rsquo;Intégration d&rsquo;un million de dollars</strong> témoigne des efforts entrepris pour proposer des modules locaux aux e-commerçants via PrestaShop Addons.</p>
+<p>En quelques semaines seulement, nous avons reçu <strong>plus de 300</strong> candidatures et assisté au développement de <strong>plus de 40</strong> nouveaux modules spécialement créés pour aider les e-commerçants du monde entier à mieux s&rsquo;adapter aux attentes de leurs clients.</p>
+<p>Autre bonne nouvelle : <strong>de nombreux modules locaux</strong> sont en cours de développement et viendront compléter notre gamme disponible sur PrestaShop Addons.<br />
+<span id="more-19431"></span></p>
+<h2 style="color:#cc4357">Inspirez-vous de ces exemples de modules choisis par le Fonds d&rsquo;Intégration</h2>
+<p><img class="aligncenter size-large wp-image-19441" alt="FR-Ex" src="https://www.prestashop.com/blog/fr/files/2015/10/FR-Ex-1024x494.png" width="700" height="337" /></p>
+<p><strong>Vous voulez développer le vôtre ? Système de paiement régional, module transporteur, connecteur marketplace&#8230;</strong></p>
+<p><a href="https://addons.prestashop.com/fr/integration-fund" target="_blank">Présentez-nous votre idée dès maintenant en vous inscrivant !</a></p>
+<p>Nous serions très heureux de vous soutenir financièrement que votre module soit pour l&rsquo;instant une simple idée ou qu&rsquo;il soit déjà développé. Si nous retenons votre candidature, votre projet sera financé et vous bénéficierez d&rsquo;une visibilité améliorée dans les pays concernés par votre innovation.</p>
+<p>Le Fonds d&rsquo;Intégration s&rsquo;adresse aux passionnés de l&rsquo;e-commerce, experts dans leur écosystème et souhaitant partager leurs connaissances grâce au développement de modules. Leur objectif ? <span style="text-decoration: underline">Proposer aux e-commerçants les meilleures solutions partout dans le monde</span>.</p>
+<h2 style="color:#cc4357">3 conseils d&rsquo;expert pour soumettre votre module au Fonds d&rsquo;Intégration</h2>
+<p>Voici trois astuces qui augmenteront vos chances d&rsquo;être choisi(e) par le Fonds d&rsquo;Intégration.</p>
+<h4 style="color:#79c6e4">1. Priorité sur les pays concernés</h4>
+<p>S&rsquo;il ne s&rsquo;adresse pas aux e-commerçants à l&rsquo;international, votre module sera considéré comme local. Précisez quels pays sont concernés par votre module ; faites une liste complète au besoin.</p>
+<h4 style="color:#79c6e4">2. Catégories</h4>
+<p>Si votre module n&rsquo;est utilisable que dans certains pays, cela veut dire qu&rsquo;il répond à un problème local affectant les commerçants, à savoir :</p>
+<p><img class="aligncenter size-large wp-image-19440" alt="FR-Cat" src="https://www.prestashop.com/blog/fr/files/2015/10/FR-Cat-1024x295.png" width="700" height="201" /></p>
+<h4 style="color:#79c6e4">3. Vos idées comptent !</h4>
+<p>N&rsquo;hésitez pas à nous contacter pour discuter des modules locaux qu&rsquo;il serait intéressant de développer. Envoyez-nous ce <a href="https://addons.prestashop.com/fr/integration-fund" target="_blank">formulaire</a> en anglais ou en français uniquement.</p>
+<p><img class="aligncenter size-large wp-image-19434" alt="star_wars" src="https://www.prestashop.com/blog/fr/files/2015/10/star_wars.png" width="481" height="309" /></p>
+<p>N&rsquo;oubliez pas ! La communauté PrestaShop compte plus de 800 000 membres tous plus motivés les uns que les autres qui contribuent à son développement ! Qui sait, peut-être que le prochain projet que nous choisirons sera le vôtre !</p>
+<p>Nous attendons vos idées avec impatience !</p>
+<p>#1million4devs</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/fonds-dintegration-prestashop-1-million-de-dollars-pour-faire-de-votre-idee-une-realite/">Fonds d&rsquo;Intégration PrestaShop : 1 million de dollars pour faire de votre idée une réalité</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/fonds-dintegration-prestashop-1-million-de-dollars-pour-faire-de-votre-idee-une-realite/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
